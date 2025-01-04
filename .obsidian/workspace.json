@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "662407fdd41d1a4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb3115e9baaebda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d79daa459a8aa86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0924931fb25938a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "250b5a0fd9ee3329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e4d7c8a7dff0971",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e07c1de80c552c8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2f6577f4e2686fc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e552ab2a72747bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f49897b79be6252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "860b201b8d88f37c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "093860a9c1b4d599",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "93322f0901d26237",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef7e49663773611a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7d79daa459a8aa86",
+  "lastOpenFiles": [
+    "Rat King.md",
+    "Whoosh.md",
+    "Chuncle.md",
+    "Man in the Tavern in qu'Hajar.md",
+    "Barbelo.md",
+    "Ant Blacksmith.md",
+    "Clergy of qu'Hajar.md",
+    "Edwin.md",
+    "Dick Morgan.md",
+    "Collector's House.md",
+    "as'Ghaar.jpg",
+    "Dick's Connection.md",
+    "Treebus.md",
+    "Laucian.md",
+    "Laucian's mother.md",
+    "Aldeville.md",
+    "Tapestry (Collector's House).md",
+    "Sovat.md",
+    "Mysterious Note (Collector's House).md",
+    "Rûh.md",
+    "qu'Hajar.md",
+    "k’Jar Kiil.md",
+    "k'Jar.md",
+    "a’Kyr.md",
+    "Map of as'Ghaar.canvas",
+    "Memorial of Talthuuf.md",
+    "The Party.md",
+    "Galbruc.md"
+  ]
+}

@@ -1,0 +1,2 @@
+#event 
+After the [[Order of the Equinox]] killed Talthuuf, a low-ranking clergy member, the [[Clergy of qu'Hajar]] held a memorial in his honor at [[Church Raye]]. The order attacked and kidnapped a high-ranking member of the clergy. 

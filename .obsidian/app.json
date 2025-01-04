@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Session Log.md"
+  ]
+}
