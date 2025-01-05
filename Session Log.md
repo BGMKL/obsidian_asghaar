@@ -3,7 +3,7 @@
 Created characters. Did a mock battle against kobolds.
 
 # Session 1: 7/20/2024
-Backstory regarding the meeting of our party. First, [[Galbruc]] and [[Laucian]] on the road. They meet [[Treebus]] at [[k’Jar Kiil]]. Then [[Dick Morgan]] at the [[Blind Orc]] in [[Rûh]].
+Backstory regarding the meeting of our party. First, [[Galbruc Sa'arum]] and [[Laucian Elderstone]] on the road. They meet [[Treebus]] at [[k’Jar Kiil]]. Then [[Dick Morgan]] at the [[Blind Orc]] in [[Rûh]].
 
 Galbruc promises the bereft couple that he will find their son [[Edwin]]. They search, noting the presence of the [[Feylight Festival]]. They encounter a giant weasel who speaks common inside of the shack (known as the [[Weasel Shack]]. The party splits, with Laucian and Dick traveling together, Laucian spits on a smaller, less intelligent weasel. 
 
@@ -15,7 +15,7 @@ Level 2
 # Session 2: 7/25/2024
 Re-decided player stats to be more balanced. 
 
-Spoke with [[Zoremar]] at [[Zoremar’s Zorestuff]]. Bought some weapons. Went to the herbalist, [[Whoosh]], and bought [[Wandercaps]] and [[Moongrass]] from the merchant [[Chuncle]].
+Spoke with [[Zoremar Gunnagi]] at [[Zoremar’s Zorestuff]]. Bought some weapons. Went to the herbalist, [[Whoosh]], and bought [[Wandercaps]] and [[Moongrass]] from the merchant [[Chuncle]].
 
 Traveled to the [[Collector's House]]. Met [[Ibkis and Candeloch]], a scared goblin. Rescued his brother, while also killing [[Pottery]] the hobgoblin and  two additional goblins.
 

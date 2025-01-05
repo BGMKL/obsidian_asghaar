@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -25,7 +25,7 @@
       "query": "tag:#event",
       "color": {
         "a": 1,
-        "rgb": 4721832
+        "rgb": 829255
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 10.2494802494803,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.5963258621008674,
-  "close": false
+  "scale": 0.5972438419419432,
+  "close": true
 }
