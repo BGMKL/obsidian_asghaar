@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#npc",
@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 5032432
       }
+    },
+    {
+      "query": "tag:#object",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#creature",
+      "color": {
+        "a": 1,
+        "rgb": 14724178
+      }
     }
   ],
   "collapse-display": true,
@@ -48,11 +62,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.981185031185031,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.487525987525988,
-  "repelStrength": 10.2494802494803,
+  "collapse-forces": true,
+  "centerStrength": 0.724532224532225,
+  "repelStrength": 14.1580041580042,
   "linkStrength": 1,
-  "linkDistance": 77,
-  "scale": 0.5972438419419432,
+  "linkDistance": 30,
+  "scale": 0.6631960371081325,
   "close": true
 }

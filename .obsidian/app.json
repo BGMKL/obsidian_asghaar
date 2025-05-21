@@ -3,6 +3,9 @@
   "promptDelete": false,
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
-    "Session Log.md"
+    "Session Log.md",
+    "DM Notes.md",
+    "Lore of as'Ghaar.md",
+    "Meta Info/Notes for Play.md"
   ]
 }

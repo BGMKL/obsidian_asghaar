@@ -1,2 +1,2 @@
 #npc
-Encountered in the wall of [[Qavos Genduluc Esac]]'s tower. Familiar with [[Fred and Charles]].
+Encountered in the wall of Qavos' tower. Friend/neighbor of [[Fred and Charles]].
