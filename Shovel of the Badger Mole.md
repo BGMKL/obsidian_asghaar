@@ -1,4 +1,4 @@
-	#object #magic-item #uncommon
+#object #magic-item #uncommon
 *Wondrous item, uncommon (requires attunement)* 
 An enchanted steel shovel with a wooden shaft. The shaft has engravings of mountains cracking and trees uprooted. 
 

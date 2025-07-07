@@ -44,8 +44,13 @@ The party kills some spiders, and finds a secret passageway which leads to a mim
 # Session 8: 5/18/2025
 **Laucian's notes:** Convinced Alaris to come persuade the Rat King (Skarn) to return to power. Skarn agrees in exchange for mayonaise, gold, and moon grass. We wash Skarn in the bathhouse, discover infernal ("Howard" is the voice in his head) presence under his crown Alaris tells us where to find the gems where she and Skarn found the crown. We run into Qavos on the way to the church, who gives the magic items. We go to the church ruins, and find that someone else has already been here, there are footsteps and the rock door has been moved. Descending the stairs, we find a 'sun-eating-slime' and a person. Battle.  
 * The party lets one Clergy member escape
-# Session 9: 6/8/2025
+# Session 9: 5/25/2025
+Dick was absent
+**Laucian's Notes:** Found an amulet at the statue in the room where finished battling last session -> Galbruc found a secret room via a pressure plate, closing us in in the process -> statue in room became animated, we broke down door into next room, agreed to come back and help the statue (deer-man form) escape -> room was a study with clerical notes about the creation of the crown 
+-> followed passage back to entrance (blocked by rubble) -> back to study room, Galbruc wearss amulet to find its holding place in the wall -> inserted amulet into wall and wall disappeared, giving way to another hallway -> short rest to heal then down secret hallway to circular ritual room w/papers sitting underneath a small centrally-located idol, dimly lit by runes glowing red on the wall -> Treebus (sheep form, "Sheepus") bites the stone idol, cracking it open and revealing the red gemstone -> I investigate documents underneath idol (missing pages from the book we found earlier, which, using cryptic runes, details the crown's creation and the imprisonment of Halphas, as ordered by Soloknir) -> go to persuade deer man (dubbed "Hubert" by Galbruc) to enter study room -> risking his destruction, Hubert reaches his arm into the room, which crumbles and falls to the floor -> can't find a way to open iron bar door holding us in
 
-# Session 10: 7/6/2025
+# Session 10: 6/8/2025
 
-# Session 11: //
+# Session 11: 7/6/2025
+
+# Session 12: 7/13/2025

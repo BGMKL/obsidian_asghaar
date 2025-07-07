@@ -33,8 +33,7 @@
               "title": "as'Ghaar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skarn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,46 +184,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2a7fa2c4f94732f",
+  "active": "9de0cfd96ed011cd",
   "lastOpenFiles": [
-    "Elaris Thorne.md",
+    "Pottery.md",
+    "Shovel of the Badger Mole.md",
+    "Amulet of Silvanus.md",
+    "Silvanus.md",
     "Session Log.md",
+    "Laucian's Mother.md",
+    "Laucian Elderstone.md",
+    "DM Notes.md",
+    "Session Plann.md",
     "as'Ghaar.jpg",
+    "Elaris Thorne.md",
     "Avatar of the Vengeful.md",
     "Meta Info/shop_catalog.pdf",
     "Vengeful Treant.md",
     "Vengeful Grove.md",
     "Kuthushar's Ravine.md",
-    "Session Plann.md",
     "Meta Info/Untitled.canvas",
     "Rhinestone of Verda.md",
     "Untitled 1.md",
     "The Party.md",
     "Treebus.md",
-    "Shovel of the Badger Mole.md",
     "Statblocks/cult_fanatic.png",
     "Church of the Crown of Halphas.md",
     "Statblocks/gargoyle.png",
     "Galbruc Sa'arum.md",
-    "Laucian Elderstone.md",
     "Vengeful Awakened Tree.md",
     "Statblocks/treant.png",
     "Statblocks/will_o_wisp.png",
     "Statblocks/direwolf.png",
     "Statblocks/awakened_tree.png",
     "Statblocks/ankheg.png",
-    "Silvanus.md",
     "Ant Blacksmith.md",
     "Tapestry (Collector's House).md",
     "qu'Hajar.md",
     "Akaal.md",
     "Mourning Hollow.md",
-    "Rat King (Skarn Tarnveil).md",
-    "Clergy of qu'Hajar.md",
-    "Sun-Eating Slime.md",
     "Statblocks/ochre_jelly.png",
     "Statblocks/guard.png",
-    "Meta Info/Notes for Play.md",
     "Meta Info/fantasy_drugs.pdf",
     "Meta Info/potion_shop.pdf",
     "Statblocks",
