@@ -4,49 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "17a779f1bfc155f5",
+        "id": "943a5740571089fe",
         "type": "tabs",
         "children": [
           {
-            "id": "008933ae76118308",
+            "id": "9de0cfd96ed011cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Church of the Crown of Halphas.md",
+                "file": "Session Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Church of the Crown of Halphas"
+              "title": "Session Log"
             }
           },
           {
-            "id": "9dcff907c48f3b07",
+            "id": "e2a7fa2c4f94732f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "Rat King (Skarn Tarnveil).md",
-                "bFile": "Rat King (Skarn Tarnveil).md",
-                "aRef": ""
+                "file": "as'Ghaar.jpg"
               },
-              "icon": "diff",
-              "title": "Diff: Rat King (Skarn Tarnveil)"
-            }
-          },
-          {
-            "id": "6bbc31f66408e10f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vengeful Awakened Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vengeful Awakened Tree"
+              "icon": "lucide-image",
+              "title": "as'Ghaar"
             }
           }
         ],
@@ -82,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "skarn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 200
   },
   "right": {
     "id": "e552ab2a72747bd6",
@@ -160,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "as'Ghaar.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,11 +154,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for as'Ghaar"
             }
           },
           {
-            "id": "99730ff5b5bd333b",
+            "id": "8a1435e3613f88bc",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -187,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +186,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dcff907c48f3b07",
+  "active": "e2a7fa2c4f94732f",
   "lastOpenFiles": [
+    "Elaris Thorne.md",
+    "Session Log.md",
+    "as'Ghaar.jpg",
+    "Avatar of the Vengeful.md",
+    "Meta Info/shop_catalog.pdf",
+    "Vengeful Treant.md",
+    "Vengeful Grove.md",
+    "Kuthushar's Ravine.md",
+    "Session Plann.md",
+    "Meta Info/Untitled.canvas",
+    "Rhinestone of Verda.md",
+    "Untitled 1.md",
+    "The Party.md",
+    "Treebus.md",
+    "Shovel of the Badger Mole.md",
+    "Statblocks/cult_fanatic.png",
+    "Church of the Crown of Halphas.md",
+    "Statblocks/gargoyle.png",
+    "Galbruc Sa'arum.md",
+    "Laucian Elderstone.md",
+    "Vengeful Awakened Tree.md",
     "Statblocks/treant.png",
     "Statblocks/will_o_wisp.png",
     "Statblocks/direwolf.png",
@@ -212,36 +219,16 @@
     "Tapestry (Collector's House).md",
     "qu'Hajar.md",
     "Akaal.md",
-    "Vengeful Awakened Tree.md",
-    "Church of the Crown of Halphas.md",
-    "Vengeful Treant.md",
-    "Avatar of the Vengeful.md",
     "Mourning Hollow.md",
     "Rat King (Skarn Tarnveil).md",
-    "Session Log.md",
     "Clergy of qu'Hajar.md",
     "Sun-Eating Slime.md",
     "Statblocks/ochre_jelly.png",
     "Statblocks/guard.png",
-    "Statblocks/gargoyle.png",
-    "Statblocks/cult_fanatic.png",
-    "Statblocks/knight.png",
     "Meta Info/Notes for Play.md",
-    "Elaris Thorne.md",
-    "Lore of as'Ghaar.md",
-    "Shovel of the Badger Mole.md",
-    "Amulet of Silvanus.md",
-    "Qavos Genduluc Esac.md",
-    "Order of the Equinox.md",
-    "Mysterious Note (Collector's House).md",
-    "Man in the Tavern in qu'Hajar.md",
-    "Galbruc Sa'arum.md",
-    "Fred and Charles.md",
     "Meta Info/fantasy_drugs.pdf",
     "Meta Info/potion_shop.pdf",
-    "Meta Info/shop_catalog.pdf",
     "Statblocks",
-    "as'Ghaar.jpg",
     "Meta Info",
     "Map of as'Ghaar.canvas"
   ]

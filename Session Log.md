@@ -11,7 +11,7 @@ Entering the [[Feywild]], the party meets together. They find Edwin, but must re
 
 After playing games, they buy prizes. Many healing potions, a decanter of endless water, and two alchemy jugs.  They return to the Blind Orc to rest. 
 
-Level 2
+**Level 2**
 # Session 2: 7/25/2024
 Re-decided player stats to be more balanced. 
 
@@ -44,3 +44,8 @@ The party kills some spiders, and finds a secret passageway which leads to a mim
 # Session 8: 5/18/2025
 **Laucian's notes:** Convinced Alaris to come persuade the Rat King (Skarn) to return to power. Skarn agrees in exchange for mayonaise, gold, and moon grass. We wash Skarn in the bathhouse, discover infernal ("Howard" is the voice in his head) presence under his crown Alaris tells us where to find the gems where she and Skarn found the crown. We run into Qavos on the way to the church, who gives the magic items. We go to the church ruins, and find that someone else has already been here, there are footsteps and the rock door has been moved. Descending the stairs, we find a 'sun-eating-slime' and a person. Battle.  
 * The party lets one Clergy member escape
+# Session 9: 6/8/2025
+
+# Session 10: 7/6/2025
+
+# Session 11: //
